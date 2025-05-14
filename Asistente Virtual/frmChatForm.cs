@@ -209,6 +209,7 @@ namespace ChatBot.Views.WinForms
 
                 try
                 {
+                   
                     string respuestaReal = await _controller.ProcesarPreguntaAsync(pregunta,historialMensajes);
 
                     // Eliminar mensaje temporal
