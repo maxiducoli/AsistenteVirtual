@@ -1,1 +1,3 @@
 # Asistente Virtual
+
+#LMstudio
